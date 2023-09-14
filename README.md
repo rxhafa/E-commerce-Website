@@ -15,7 +15,7 @@ Internet based enterprise that sells electronic products as the middleman betwee
   <h2>Programming languages & APIs used for this project</h2>
 
   <button style="display:inline-flex;"><img src="https://github.com/rxhafa/E-commerce-Website/blob/main/images/html5.png" style="height: 50px;">
-  <p style="background: rgb(228,78,33); color:white; font-weight: bold;">HTML</p></button>
+  <p style="background: orange; color:white; font-weight: bold;">HTML</p></button>
 </div>
 
 https://github.com/rxhafa/E-commerce-Website/assets/71972849/a90b4a0b-77b0-4037-8221-aa8fff2150f1
