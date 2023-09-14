@@ -2,9 +2,10 @@
 
 Created an internet based enterprise that sells electronic products as the middleman between retail partners of the website and the customers.
 
-Contents
-<hr>
-<a href="#end">Get to the end</a>
+##Contents
+Website content
+How to run the website
+
 
 https://github.com/rxhafa/E-commerce-Website/assets/71972849/a90b4a0b-77b0-4037-8221-aa8fff2150f1
 
