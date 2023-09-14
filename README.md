@@ -1,10 +1,10 @@
 # E-commerce-Website
 
-Created an internet based enterprise that sells electronic products as the middleman between retail partners of the website and the customers.
+Internet based enterprise that sells electronic products as the middleman between retail partners of the website and the customers.
 
 ## Contents
+* Programming languages and APIs
 * Website content
-
 * How to run this
 
 
