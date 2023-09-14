@@ -5,9 +5,12 @@
 Internet based enterprise that sells electronic products as the middleman between retail partners of the website and the customers.
 
 ## Contents
-* Programming languages and APIs
-* Website content
-* How to run this
+* <a href="languages">Programming languages and APIs</a>
+* <a href="content">Website content</a>
+* <a href="run">How to run this</a>
+
+<hr>
+
 
 
 https://github.com/rxhafa/E-commerce-Website/assets/71972849/a90b4a0b-77b0-4037-8221-aa8fff2150f1
