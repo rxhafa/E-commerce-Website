@@ -8,7 +8,7 @@ Created an internet based enterprise that sells electronic products as the middl
 * How to run this
 
 
-https://github.com/rxhafa/E-commerce-Website/assets/71972849/a90b4a0b-77b0-4037-8221-aa8fff2150f1
+![](https://github.com/rxhafa/E-commerce-Website/assets/71972849/a90b4a0b-77b0-4037-8221-aa8fff2150f1 | width=100)
 
 Worked on the mobile responsiveness of the website. 
 
