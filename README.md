@@ -12,6 +12,7 @@ https://github.com/rxhafa/E-commerce-Website/assets/71972849/f862079b-5a42-43a3-
 https://github.com/rxhafa/E-commerce-Website/assets/71972849/ed02a795-c214-493c-b108-aae02335e2f2
 
 
+![responsive](https://github.com/rxhafa/E-commerce-Website/assets/71972849/10523c9a-d5ef-4bc7-9652-1f8482ca3dc1)
 
 
 https://github.com/rxhafa/E-commerce-Website/assets/71972849/802a1635-6205-4701-b62c-4a243b5b14df
