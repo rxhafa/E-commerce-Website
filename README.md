@@ -1,3 +1,5 @@
+<img src="https://github.com/rxhafa/E-commerce-Website/blob/main/images/ecommerce.png">
+
 # E-commerce-Website
 
 Internet based enterprise that sells electronic products as the middleman between retail partners of the website and the customers.
