@@ -1,4 +1,4 @@
-<img src="https://github.com/rxhafa/E-commerce-Website/blob/main/images/ecommerce.png" style="width: 100%;">
+<img src="https://github.com/rxhafa/E-commerce-Website/blob/main/images/header.png" style="width: 100%;">
 
 # E-commerce-Website
 
