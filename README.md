@@ -2,7 +2,7 @@
 
 Created an internet based enterprise that sells electronic products as the middleman between retail partners of the website and the customers.
 
-##Contents
+## Contents
 Website content
 How to run the website
 
