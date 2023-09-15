@@ -51,10 +51,10 @@ https://github.com/rxhafa/E-commerce-Website/assets/71972849/802a1635-6205-4701-
 <div id="run">
 
 <h2>Running the website.</h2> 
-Download the XAMPP PHP development environment at https://www.apachefriends.org/
+* Download the XAMPP PHP development environment at https://www.apachefriends.org/
 and install the required components (mysql and apache).
 
-After installing all the necessary components go to http://localhost/phpmyadmin/ and create the database and tables according to the sql file
+* After installing all the necessary components go to http://localhost/phpmyadmin/ and create the database and tables according to the sql file
 Make sure that the database, tables and table column names match the ones written on the documents.
 
 </div>
