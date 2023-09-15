@@ -32,10 +32,8 @@ Internet based enterprise that sells electronic products as the middleman betwee
 
 <div id="content">
   <h2>Website content</h2>
+https://github.com/rxhafa/E-commerce-Website/assets/71972849/fffbc2f6-ed3a-4dd2-a5ab-f7f63426a31b
 
- <video width="500px" height="500px" controls="controls">
-        <source src="https://github.com/rxhafa/E-commerce-Website/blob/main/videos/main.mp4" type="video/mp4" />
-       </video>
 
 <h4>Worked on the mobile responsiveness of the website.</h4> 
 
