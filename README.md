@@ -36,7 +36,7 @@ Internet based enterprise that sells electronic products as the middleman betwee
 https://github.com/rxhafa/E-commerce-Website/assets/71972849/fffbc2f6-ed3a-4dd2-a5ab-f7f63426a31b
 
 
-<h4>Worked on the mobile responsiveness of the website.</h4> 
+<h3>Mobile Responsiveness</h3> 
 
 https://github.com/rxhafa/E-commerce-Website/assets/71972849/f862079b-5a42-43a3-97f4-2981e4d501f8
 
