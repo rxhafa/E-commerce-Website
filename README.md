@@ -27,7 +27,8 @@ Internet based enterprise that sells electronic products as the middleman betwee
 </div>
 
 </div>
-
+---
+---
 <div id="content">
   <h2>Website content</h2>
 https://github.com/rxhafa/E-commerce-Website/assets/71972849/a90b4a0b-77b0-4037-8221-aa8fff2150f1
