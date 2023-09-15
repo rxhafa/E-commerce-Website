@@ -5,9 +5,9 @@
 Internet based enterprise that sells electronic products as the middleman between retail partners of the website and the customers.
 
 ## Contents
-* <a href="languages">Programming languages and APIs</a>
-* <a href="content">Website content</a>
-* <a href="run">How to run this</a>
+* <a href="#languages">Programming languages and APIs</a>
+* <a href="#content">Website content</a>
+* <a href="#run">How to run this</a>
 
 <hr>
 
