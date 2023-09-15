@@ -1,3 +1,4 @@
+<body>
 <img src="https://github.com/rxhafa/E-commerce-Website/blob/main/images/header.png" style="width: 100%;">
 
 # E-commerce-Website
@@ -55,3 +56,4 @@ After installing all the necessary components go to http://localhost/phpmyadmin/
 Make sure that the database, tables and table column names match the ones written on the documents.
 
 </div>
+</body>
