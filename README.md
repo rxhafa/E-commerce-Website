@@ -14,8 +14,13 @@ Internet based enterprise that sells electronic products as the middleman betwee
 <div id="languages">
   <h2>Programming languages & APIs used for this project</h2>
 
-  <button style="display:inline-flex;"><img src="https://github.com/rxhafa/E-commerce-Website/blob/main/images/html5.png" style="height: 50px;">
-  <p style="background: orange; color:white; font-weight: bold;">HTML</p></button>
+  <img src="https://github.com/rxhafa/E-commerce-Website/blob/main/images/html5.png" style="height: 50px;">
+    <img src="https://github.com/rxhafa/E-commerce-Website/blob/main/images/css.png" style="height: 50px;">
+      <img src="https://github.com/rxhafa/E-commerce-Website/blob/main/images/javascript.png" style="height: 50px;">
+        <img src="https://github.com/rxhafa/E-commerce-Website/blob/main/images/jquery.png" style="height: 50px;">
+          <img src="https://github.com/rxhafa/E-commerce-Website/blob/main/images/visual_studio.png" style="height: 50px;">
+            <img src="https://github.com/rxhafa/E-commerce-Website/blob/main/images/php.png" style="height: 50px;">
+              <img src="https://github.com/rxhafa/E-commerce-Website/blob/main/images/sql.png" style="height: 50px;">
 </div>
 
 https://github.com/rxhafa/E-commerce-Website/assets/71972849/a90b4a0b-77b0-4037-8221-aa8fff2150f1
