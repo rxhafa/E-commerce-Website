@@ -51,6 +51,7 @@ https://github.com/rxhafa/E-commerce-Website/assets/71972849/802a1635-6205-4701-
 <div id="run">
 
 <h2>Running the website.</h2> 
+
 * Download the XAMPP PHP development environment at https://www.apachefriends.org/
 and install the required components (mysql and apache).
 
