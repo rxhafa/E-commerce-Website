@@ -11,7 +11,7 @@ Internet based enterprise that sells electronic products as the middleman betwee
 
 <hr>
 
-<div id="languages">
+<div id="languages" style="margin-bottom: 150px; margin-top: 100px;">
   <h2>Programming languages & APIs used for this project</h2>
 <div style="display: inline-flex; width: 100%; text-align: center;">
   <img src="https://github.com/rxhafa/E-commerce-Website/blob/main/images/html5.png" style="height: 50px;">
