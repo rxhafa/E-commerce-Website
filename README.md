@@ -21,6 +21,7 @@ Internet based enterprise that sells electronic products as the middleman betwee
           <img src="https://github.com/rxhafa/E-commerce-Website/blob/main/images/visual_studio.png" style="height: 50px;">
             <img src="https://github.com/rxhafa/E-commerce-Website/blob/main/images/php.png" style="height: 50px;">
               <img src="https://github.com/rxhafa/E-commerce-Website/blob/main/images/sql.png" style="height: 50px;">
+               <img src="https://github.com/rxhafa/E-commerce-Website/blob/main/images/xampp-logo.png" style="height: 50px;">
 
 </div>
 
