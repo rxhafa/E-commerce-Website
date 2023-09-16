@@ -38,16 +38,16 @@ https://github.com/rxhafa/E-commerce-Website/assets/71972849/fffbc2f6-ed3a-4dd2-
 
 <h3>Mobile Responsiveness</h3> 
 
-https://github.com/rxhafa/E-commerce-Website/assets/71972849/f862079b-5a42-43a3-97f4-2981e4d501f8
+https://github.com/rxhafa/E-commerce-Website/assets/71972849/2e29e3aa-f67f-412d-803e-99ba694448b1
 
+<h3>Product filters using jquery, js and php</h3>
 
-https://github.com/rxhafa/E-commerce-Website/assets/71972849/ed02a795-c214-493c-b108-aae02335e2f2
+https://github.com/rxhafa/E-commerce-Website/assets/71972849/f69c1007-13be-4c5f-8716-7eee53808854
 
+<h3>Product Comparison Page</h3>
 
-![responsive](https://github.com/rxhafa/E-commerce-Website/assets/71972849/10523c9a-d5ef-4bc7-9652-1f8482ca3dc1 | width=100)
+https://github.com/rxhafa/E-commerce-Website/assets/71972849/d03456df-ca76-4f35-8eb2-d6a23818d0d8
 
-
-https://github.com/rxhafa/E-commerce-Website/assets/71972849/802a1635-6205-4701-b62c-4a243b5b14df
 </div>
 
 <div id="run">
